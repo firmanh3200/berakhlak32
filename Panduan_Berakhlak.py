@@ -21,5 +21,4 @@ with st.expander('Melakukan perbaikan tiada henti'):
   st.success('Melakukan perbaikan tiada henti')
   st.write('1. Melakukan evaluasi untuk meningkatkan kualitas dan memperbaiki kekurangan')
   st.write('2. Menindaklanjuti setiap kritik, saran, dan masukan untuk perbaikan pelayanan')
-  st.write('3. Melakukan upaya peningkatan wawasan dan pengetahuan dalam rangka
-peningkatan kualitas pelayanan')
+  st.write('3. Melakukan upaya peningkatan wawasan dan pengetahuan dalam rangka peningkatan kualitas pelayanan')
