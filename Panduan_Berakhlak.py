@@ -3,8 +3,9 @@ import streamlit as st
 st.set_page_config(layout='wide')
 
 st.title('Panduan Berakhlak Pegawai BPS')
-st.header('Berorientasi Pelayanan', divider='green')
-st.subheader('Komitmen memberikan pelayanan prima demi kepuasan masyarakat')
+with st.container(border=True):
+  st.header('Berorientasi Pelayanan', divider='green')
+  st.subheader('Komitmen memberikan pelayanan prima demi kepuasan masyarakat')
 with st.expander('Memahami dan memenuhi kebutuhan masyarakat'):
   st.success('Memahami dan memenuhi kebutuhan masyarakat')
   st.write('1. Mengidentifikasi kebutuhan stakeholders secara proaktif dalam rangka memberikan pelayanan prima')
