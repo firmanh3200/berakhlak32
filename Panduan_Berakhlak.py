@@ -13,8 +13,7 @@ with st.expander('Memahami dan memenuhi kebutuhan masyarakat'):
 
 with st.expander('Ramah, cekatan, solutif, dan dapat diandalkan'):
   st.success('Ramah, cekatan, solutif, dan dapat diandalkan')
-  st.write('1. Memberikan solusi terhadap permasalahan terkait data yang dihadapi
-stakeholders')
+  st.write('1. Memberikan solusi terhadap permasalahan terkait data yang dihadapi stakeholders')
   st.write('2. Responsif dalam memberikan pelayanan')
   st.write('3. Menerapkan 5S (Senyum, Sapa, Salam, Sopan dan Santun) ketika memberikan pelayanan')
 
